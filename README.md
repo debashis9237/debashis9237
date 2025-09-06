@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Debashis Sahoo<br>🎓 B.Tech CSE (ICS Specialization) | 2nd Year Student<br>💡 Passionate about AI, Machine Learning, Web Development, and Cybersecurity<br>🚀 Currently working on AI-Powered Learning & Healthcare Projects<br>🌱 Exploring React, LLaMA, Gemini API, and Full-Stack Development<br>🎯 Goal: Build impactful AI-driven EdTech & Healthcare solutions<br>⚡ Fun fact: I believe code + creativity = innovation ✨
+👋 Hi, I’m Debashis Sahoo<br>🎓 B.Tech CSE (ICS Specialization) | 2nd Year Student<br>💡 Passionate about AI, Machine Learning, Web Development, App Development and Cybersecurity<br>🚀 Currently working on AI-Powered Learning & Healthcare Projects<br>🌱 Exploring React, LLaMA, Gemini API, and Full-Stack Development<br>🎯 Goal: Build impactful AI-driven EdTech & Healthcare solutions<br>⚡ Fun fact: I believe code + creativity = innovation ✨
 
 <!-- Snake Game Repo View -->
 
